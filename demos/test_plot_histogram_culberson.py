@@ -69,7 +69,7 @@ import os
 # '''.format(author=author)
 # 
 # df = pd.read_sql(query, mydb)
-# df.to_csv('coalson20221128_20221231.csv')
+# df.to_csv('culberson20221128_20221231.csv')
 
 ## OPTION 2 (Read saved data)
 #another PATH on local repository
