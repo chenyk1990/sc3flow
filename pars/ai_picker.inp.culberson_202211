@@ -45,17 +45,6 @@ filter_data = CM.RUS, CM.PTB, CM.OCA, CM.SPBC, CM.YPLC
 general_data_dir = experiment/data
 general_output_dir = experiment/output/30112022-221200_01122022-000000
 
-#########------------ PhaseNet Dict  ------------#######
-
-pnet_repository_dir = /home/daniel/PhaseNet
-pnet_model_dir = /home/daniel/PhaseNet/model/190703-214543
-pnet_mode = pred
-pnet_batch_size = 40
-pnet_plot_figure = False
-pnet_save_result = False
-
-#########------------ EQTransformer Dict  ------------##########
-##-->eqt_predictor:  mseed or hdf5
 
 eqt_create_json = True
 eqt_predictor = mseed

@@ -1,4 +1,5 @@
 #!/bin/sh
+#Please make sure seiscomp3 is fully configured
 
 #Please move the correct parameter file first
 # cp ../pars/ai_picker.inp.culberson_202211 ./ai_picker.inp

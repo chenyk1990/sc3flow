@@ -1,1 +1,0 @@
-anaconda_path = /home/siervod/anaconda3
