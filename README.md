@@ -57,7 +57,9 @@ Each figure in the gallery directory corresponds to a DEMO script in the "demo" 
 ## Modules
 
 discontinuous_picker.py: Earthquake detection module for continuous data (Example: discontinuous_picker.py -s "2019-01-01 00:00:00" -e "2020-01-01 00:00:00" -n 0.125)
+
 prune_and_count_events.py: Combine all the windowed detection results into one catalog file in csv format (Example: prune_and_count_events.py in the output folder)
+
 split_cat_in_picks.py: Spliit detection results into quakeml format (Example: split_cat_in_picks.py main_events_pruned.xml)
 
 -----------
