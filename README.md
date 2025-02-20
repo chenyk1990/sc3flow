@@ -6,17 +6,17 @@
 **sc3flow** is a SeisComp-based EQ detection, association, and location workflow
 
 ## Reference
-Chen et al., 2024, Real-time earthquake monitoring in Texas using the highly precise deep learning phase picker, TBD.
+Chen et al., 2024, Near Real‐Time Earthquake Monitoring in Texas Using the Highly Precise Deep Learning Phase Picker, Earth and Space Science, 11, e2024EA003890.
 
 BibTeX:
 
 	@article{sc3flow,
-	  title={Real-time earthquake monitoring in Texas using the highly precise deep learning phase picker},
+	  title={Near Real‐Time Earthquake Monitoring in Texas Using the Highly Precise Deep Learning Phase Picker},
 	  author={Yangkang Chen and Alexandros Savvaidis and Daniel Siervo and Dino Huang and Omar M. Saad},
-	  journal={TBD},
-	  volume={TBD},
-	  number={TBD},
-	  pages={TBD},
+	  journal={Earth and Space Science},
+	  volume={11},
+	  number={1},
+	  pages={e2024EA003890},
 	  year={2024}
 	}
 
